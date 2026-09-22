@@ -7,8 +7,8 @@
 **17+ years** designing, securing, and automating multi-cloud infrastructure (AWS · Azure · GCP) —
 currently leading DevSecOps transformation at **Giesecke+Devrient**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkasaudhan-713a4225/)
-[![Medium](https://img.shields.io/badge/Medium-Read%20my%20posts-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/devopscaptain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kasaudhan-713a4225/)
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20posts-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishkasaudhan)
 [![AWS](https://img.shields.io/badge/AWS-Ambassador%20%26%20Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 </div>
@@ -24,9 +24,9 @@ modernizing cloud platforms with IaC, policy-as-code, and secure software delive
 Before this, I spent 4+ years at **PwC** as a Senior Cloud & DevOps Architect (AWS landing zones, ML/AI
 workload infrastructure, monolith-to-microservices migrations on ECS/Fargate/EKS) and 5+ years at
 **Thales** leading DevOps for GitOps-based microservices deployments, FinOps cost reduction, and
-multi-cloud IaC on AWS/GCP/Azure. Earlier roles at NTT DATA, SDG Corp, and FutureSoft built the
-infrastructure/Linux fundamentals everything since has been built on — including managing 500+ servers
-across heterogeneous environments.
+multi-cloud IaC on AWS/GCP/Azure. Roles before that — NTT DATA, SDG Corp, FutureSoft, and Softona
+Technology — trace the path from Linux system administration to full DevOps and cloud architecture,
+including managing 500+ servers across heterogeneous environments along the way.
 
 I'm an **AWS Ambassador and Community Builder** and write practitioner-grade technical content on
 cloud, DevOps, and AI-assisted infrastructure — mechanics over marketing, verified specifics over hype.
@@ -86,6 +86,8 @@ comparison, and live on-demand pricing, with zero backend and zero AWS credentia
 | **Thales** | Senior DevOps Technical Lead *(2017–2022)* | GitOps (Flux/ArgoCD), FinOps, multi-cloud Terraform/Ansible, Istio service mesh |
 | **NTT DATA Americas** | Senior Principal Consultant *(2015–2017)* | Infra automation (Ansible/Salt/Puppet/Chef), 500+ server fleet management |
 | **SDG Corporation** | Senior Linux Administrator *(2014–2015)* | LAMP stack ops, AWS infrastructure, DR environments |
+| **FutureSoft (India)** | Linux Administrator *(2012–2014)* | LAMP tuning, MySQL replication/failover automation, HA Apache setups, KVM virtualization |
+| **Softona Technology** | System Administrator *(2009–2012)* | Linux/Windows sysadmin foundations — networking, backups, server security, early AWS setup |
 
 ---
 
@@ -139,7 +141,7 @@ comparison, and live on-demand pricing, with zero backend and zero AWS credentia
 | MCP Tunnel Architecture | Private VPC / Bedrock setup |
 | Docker Image Supply Chain Security | SBOM generation, Sigstore/cosign signing, CI/CD integration *(in progress)* |
 
-📖 Full archive on [Medium](https://medium.com/devopscaptain) and [LinkedIn](https://www.linkedin.com/in/ashishkasaudhan-713a4225/)
+📖 Full archive on [Medium](https://medium.com/@ashishkasaudhan) and [LinkedIn](https://www.linkedin.com/in/ashish-kasaudhan-713a4225/)
 
 ---
 
@@ -158,7 +160,7 @@ comparison, and live on-demand pricing, with zero backend and zero AWS credentia
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kasaudhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkasaudhan-713a4225/)
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kasaudhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kasaudhan-713a4225/)
 
 *Multi-Cloud Infrastructure • DevSecOps • Platform Engineering • AI-Driven Automation*
 
