@@ -7,7 +7,7 @@
 **17+ years** designing, securing, and automating multi-cloud infrastructure (AWS · Azure · GCP) —
 currently leading DevSecOps transformation at **Giesecke+Devrient**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkasaudhan-713a4225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kasaudhan-713a4225/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20my%20posts-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/devopscaptain)
 [![AWS](https://img.shields.io/badge/AWS-Ambassador%20%26%20Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
@@ -141,7 +141,7 @@ comparison, and live on-demand pricing, with zero backend and zero AWS credentia
 | MCP Tunnel Architecture | Private VPC / Bedrock setup |
 | Docker Image Supply Chain Security | SBOM generation, Sigstore/cosign signing, CI/CD integration *(in progress)* |
 
-📖 Full archive on [Medium](https://medium.com/devopscaptain) and [LinkedIn](https://www.linkedin.com/in/ashishkasaudhan-713a4225/)
+📖 Full archive on [Medium](https://medium.com/devopscaptain) and [LinkedIn](https://www.linkedin.com/in/ashish-kasaudhan-713a4225/)
 
 ---
 
@@ -160,7 +160,7 @@ comparison, and live on-demand pricing, with zero backend and zero AWS credentia
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kasaudhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkasaudhan-713a4225/)
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kasaudhan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kasaudhan-713a4225/)
 
 *Multi-Cloud Infrastructure • DevSecOps • Platform Engineering • AI-Driven Automation*
 
